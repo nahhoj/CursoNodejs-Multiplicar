@@ -1,0 +1,16 @@
+{
+  "name": "03-basesnodejs",
+  "version": "1.0.0",
+  "description": "Esta app crea un archivo con la tabla de multiplicar pasada por argumento",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Calderon",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {}
+}
